@@ -1,0 +1,25 @@
+E:\Installations\hello\platforms\android\ant-build\HelloChris.ap_ \
+ : E:\Installations\hello\platforms\android\res\drawable\icon.png \
+E:\Installations\hello\platforms\android\res\drawable-hdpi\icon.png \
+E:\Installations\hello\platforms\android\res\drawable-ldpi\icon.png \
+E:\Installations\hello\platforms\android\res\drawable-mdpi\icon.png \
+E:\Installations\hello\platforms\android\res\drawable-xhdpi\icon.png \
+E:\Installations\hello\platforms\android\res\values\strings.xml \
+E:\Installations\hello\platforms\android\res\xml\config.xml \
+E:\Installations\hello\platforms\android\ant-build\res\drawable\icon.png \
+E:\Installations\hello\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+E:\Installations\hello\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+E:\Installations\hello\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+E:\Installations\hello\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+E:\Installations\hello\platforms\android\assets\www \
+E:\Installations\hello\platforms\android\assets\_where-is-www.txt \
+E:\Installations\hello\platforms\android\assets\www\cordova.js \
+E:\Installations\hello\platforms\android\assets\www\cordova_plugins.js \
+E:\Installations\hello\platforms\android\assets\www\css \
+E:\Installations\hello\platforms\android\assets\www\img \
+E:\Installations\hello\platforms\android\assets\www\index.html \
+E:\Installations\hello\platforms\android\assets\www\js \
+E:\Installations\hello\platforms\android\assets\www\css\index.css \
+E:\Installations\hello\platforms\android\assets\www\img\logo.png \
+E:\Installations\hello\platforms\android\assets\www\js\index.js \
+E:\Installations\hello\platforms\android\ant-build\AndroidManifest.xml \
